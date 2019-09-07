@@ -23,6 +23,14 @@
     "/next/dist/pages/_error": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
+    ],
+    "/upload": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/view": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }
